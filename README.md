@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any bigdata project
-- 📫 Reach me : mahk.eaktel@gmai.com
+- 📫 Reach me @ mahk.eaktel@gmail.com
 
 <!---
 halim773/halim773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
